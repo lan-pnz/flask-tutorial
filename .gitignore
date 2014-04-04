@@ -58,3 +58,6 @@ docs/_build/
 
 # PyCharm project files
 .idea/
+
+# Other
+*.db
