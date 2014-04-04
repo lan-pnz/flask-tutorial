@@ -52,6 +52,9 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-#Sublime Text project files
+# Sublime Text project files
 *.sublime-project
 *.sublime-workspace
+
+# PyCharm project files
+.idea/
